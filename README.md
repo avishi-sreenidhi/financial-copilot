@@ -3,7 +3,7 @@
 A robust, intelligent multi-agent system for comprehensive **financial data analytics** with context-aware query routing, dynamic chart generation, and flexible financial data exploration. Built with LangGraph, LangChain, and Streamlit.
 
 ![UI Preview](./assets/1.png)
-![UI Preview](./assets/2.png)f
+![UI Preview](./assets/2.png)
 
 ## Overview
 
