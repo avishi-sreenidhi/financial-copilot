@@ -2,9 +2,6 @@
 
 A robust, intelligent multi-agent system for comprehensive **financial data analytics** with context-aware query routing, dynamic chart generation, and flexible financial data exploration. Built with LangGraph, LangChain, and Streamlit.
 
-![UI Preview](./assets/1.png)
-![UI Preview](./assets/2.png)
-
 ## Overview
 
 This platform leverages a sophisticated swarm of specialized agents, orchestrated to deliver advanced **financial analytics** for any structured dataset:
@@ -45,6 +42,11 @@ This platform leverages a sophisticated swarm of specialized agents, orchestrate
 
 * **Chart Types**: Bar, line, scatter, histogram, box, pie, heatmap, violin plots, and custom financial visualizations
 
+
+![UI Preview](./assets/1.png)
+
+
+
 ### 🔍 Powerful Financial Data Exploration
 
 * **Context-Enhanced Search**: Uses query context for more accurate financial results
@@ -65,6 +67,8 @@ This platform leverages a sophisticated swarm of specialized agents, orchestrate
 
 * **Multi-Turn Conversations**: Supports follow-up questions and refinements
 
+![UI Preview](./assets/2.png)
+
 ## Quick Start
 
 ### 1\. Install Dependencies
@@ -73,7 +77,7 @@ This platform leverages a sophisticated swarm of specialized agents, orchestrate
 pip install -r requirements.txt
 ```
 
-### 2\. Set Environment Variables
+### 2\. Set Environment Variables 
 
 ```bash
 export OPENAI_API_KEY="your-openai-api-key"
